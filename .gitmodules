@@ -8,13 +8,13 @@
 	url = https://github.com/rqtl/qtl2
 	shallow = true
 	registered = true
-[submodule "qtl2convert"]
-	path = qtl2convert
-	url = https://github.com/rqtl/qtl2convert
-	shallow = true
-	registered = true
 [submodule "qtl2fst"]
 	path = qtl2fst
 	url = https://github.com/rqtl/qtl2fst
+	shallow = true
+	registered = true
+[submodule "qtl2convert"]
+	path = qtl2convert
+	url = https://github.com/rqtl/qtl2convert
 	shallow = true
 	registered = true
