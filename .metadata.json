@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "qtl2fst",
+    "package": "qtl2convert",
     "oncran": true
   },
   {
-    "package": "qtl2convert",
+    "package": "qtl2fst",
     "oncran": true
   }
 ]
