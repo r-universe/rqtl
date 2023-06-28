@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mmconvert"]
 	path = mmconvert
 	url = https://github.com/rqtl/mmconvert
-	shallow = true
-	registered = true
 [submodule "qtl2"]
 	path = qtl2
 	url = https://github.com/rqtl/qtl2
-	shallow = true
-	registered = true
 [submodule "qtl2convert"]
 	path = qtl2convert
 	url = https://github.com/rqtl/qtl2convert
-	shallow = true
-	registered = true
 [submodule "qtl2fst"]
 	path = qtl2fst
 	url = https://github.com/rqtl/qtl2fst
-	shallow = true
-	registered = true
