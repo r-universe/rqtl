@@ -1,13 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rqtl/rqtl.r-universe.dev
 	branch = HEAD
+[submodule "GNapi"]
+	path = GNapi
+	url = https://github.com/rqtl/GNapi
+[submodule "GWASapi"]
+	path = GWASapi
+	url = https://github.com/rqtl/GWASapi
 [submodule "mmconvert"]
 	path = mmconvert
 	url = https://github.com/rqtl/mmconvert
 [submodule "qtl2"]
 	path = qtl2
 	url = https://github.com/rqtl/qtl2
+[submodule "qtl2bioc"]
+	path = qtl2bioc
+	url = https://github.com/rqtl/qtl2bioc
+[submodule "qtl2browse"]
+	path = qtl2browse
+	url = https://github.com/rqtl/qtl2browse
+[submodule "qtl2cl"]
+	path = qtl2cl
+	url = https://github.com/rqtl/qtl2cl
 [submodule "qtl2convert"]
 	path = qtl2convert
 	url = https://github.com/rqtl/qtl2convert
